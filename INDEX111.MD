@@ -1,13 +1,12 @@
 "## Kalu Ugwu Maria Web Excercise"
 ## ITALICS AND BOLD
 Writing in Markdown is _not_ that hard!
-I **will** complete these lessons!
+I **will**complete these lessons!
  "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 ## HEADERS
 # Header one
 ## Header two
-### Header three
-#### Header four
+### Header threer four
 ##### Header five
 ###### Header six
 #### Colombian Symbolism in _One Hundred Years of Solitude_
