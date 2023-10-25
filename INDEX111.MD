@@ -6,7 +6,8 @@ I **will**complete these lessons!
 ## HEADERS
 # Header one
 ## Header two
-### Header threer four
+### Header three
+#### Header four
 ##### Header five
 ###### Header six
 #### Colombian Symbolism in _One Hundred Years of Solitude_
